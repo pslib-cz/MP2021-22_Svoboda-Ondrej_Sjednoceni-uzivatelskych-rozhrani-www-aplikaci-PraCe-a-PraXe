@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e5887b4f.css",
-    "main.js": "/static/js/main.f28b516c.js",
-    "static/js/787.749f879f.chunk.js": "/static/js/787.749f879f.chunk.js",
-    "index.html": "/index.html",
-    "main.e5887b4f.css.map": "/static/css/main.e5887b4f.css.map",
-    "main.f28b516c.js.map": "/static/js/main.f28b516c.js.map",
-    "787.749f879f.chunk.js.map": "/static/js/787.749f879f.chunk.js.map"
+    "main.css": "/MP2021-22_Svoboda-Ondrej_Sjednoceni-uzivatelskych-rozhrani-www-aplikaci-PraCe-a-PraXe/static/css/main.e5887b4f.css",
+    "main.js": "/MP2021-22_Svoboda-Ondrej_Sjednoceni-uzivatelskych-rozhrani-www-aplikaci-PraCe-a-PraXe/static/js/main.f0140dfb.js",
+    "static/js/787.749f879f.chunk.js": "/MP2021-22_Svoboda-Ondrej_Sjednoceni-uzivatelskych-rozhrani-www-aplikaci-PraCe-a-PraXe/static/js/787.749f879f.chunk.js",
+    "index.html": "/MP2021-22_Svoboda-Ondrej_Sjednoceni-uzivatelskych-rozhrani-www-aplikaci-PraCe-a-PraXe/index.html",
+    "main.e5887b4f.css.map": "/MP2021-22_Svoboda-Ondrej_Sjednoceni-uzivatelskych-rozhrani-www-aplikaci-PraCe-a-PraXe/static/css/main.e5887b4f.css.map",
+    "main.f0140dfb.js.map": "/MP2021-22_Svoboda-Ondrej_Sjednoceni-uzivatelskych-rozhrani-www-aplikaci-PraCe-a-PraXe/static/js/main.f0140dfb.js.map",
+    "787.749f879f.chunk.js.map": "/MP2021-22_Svoboda-Ondrej_Sjednoceni-uzivatelskych-rozhrani-www-aplikaci-PraCe-a-PraXe/static/js/787.749f879f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5887b4f.css",
-    "static/js/main.f28b516c.js"
+    "static/js/main.f0140dfb.js"
   ]
 }
